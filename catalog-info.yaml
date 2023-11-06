@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-02
+  annotations:
+    github.com/project-slug: Fernanda-Duran-NTT/test-02
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
