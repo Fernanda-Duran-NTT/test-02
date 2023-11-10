@@ -8,11 +8,10 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   lifecycle: "Sandboxed" 
-  owner: "group:default/java-team"
-  author: "user:default/Fernanda-Duran-NTT"
+  owner: "guests"
   status: "Draft"
   type: openapi
-  definition: |
+  definition:
     openapi: "3.0.0"
     info:
       version: "1.0.0"
